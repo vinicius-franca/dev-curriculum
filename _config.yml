@@ -6,15 +6,15 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
-author-title: Full Stack Developer
+author: Vinicius França
+author-title: Front-end Developer
 gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
+email: viniciusgpf@gmail.com
+twitter: 
+github: vinicius-franca
+googleplus: 
+facebook: viniciusgpf
+linkedin: viniciusgpf/en
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
       exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
@@ -22,7 +22,7 @@ bio: "Brazilian developer. Game, music and technology lover.
       I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
       to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
       technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+      I like to work with both: Front-End and development. I work with many languages, frameworks and technologies."
 
 # Skills
 #
@@ -44,22 +44,18 @@ front-end:
   - name: JavaScript
     level: 4
   - name: jQuery
-    level: 4
+    level: 2
   - name: Angular
-    level: 4
+    level: 2
   - name: Vue.js
     level: 2
   - name: Bootstrap
-    level: 4
+    level: 5
   - name: Materialize CSS
     level: 5
   - name: LESS
-    level: 3
+    level: 2
   - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
-  - name: Gulp
     level: 4
   - name: Grunt
     level: 3
@@ -74,10 +70,6 @@ back-end:
   - name: Ruby
     level: 2
   - name: Python
-    level: 2
-  - name: Java
-    level: 4
-  - name: COBOL
     level: 2
   - name: SQL
     level: 4
